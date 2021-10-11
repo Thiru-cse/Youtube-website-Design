@@ -24,7 +24,7 @@ ___
 
 ># **This Project Live on..👇**
 
-* [YouTube Clone 🔗](https://lucid-johnson-ac5243.netlify.app/)
+* [YouTube Clone 🔗](https://confident-torvalds-a239b2.netlify.app/)
 
 ___
 
