@@ -462,22 +462,18 @@ nav{
 
 /* ---------Footer--------- */
 
-
 .bottom center{
     padding: 5px;
     font-size: 0.9375em;
     background: #a3a3a3;
 }
-
 .bottom center span{
     color: #020202;    
 }
-
 .bottom center a{
     color: #f12020;
     text-decoration: none;
 }
-
 .bottom center a:hover{
     text-decoration: underline;    
 }
